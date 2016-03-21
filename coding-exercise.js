@@ -14,7 +14,7 @@ var CodingExercise = (function () {
   }
   /**
    * Get all prime numbers given an upper limit.
-   * @param  [int] $n - Upper limit.
+   * @param  [int] n - Upper limit.
    * @return [int[]]
    */
   function getPrimes(n) {
@@ -23,7 +23,7 @@ var CodingExercise = (function () {
     for(var i = 2; i <= n; i++) { /* Start with 2 */
       if(arr[i] !== false) {
         primes.push(i); /* Elements that are not false */
-        for(var j = Math.pow(i, 2); j <= n; j += i) { /* Mark multiples of $i as false (i.e. non-prime) */
+        for(var j = Math.pow(i, 2); j <= n; j += i) { /* Mark multiples of i as false (i.e. non-prime) */
           arr[j] = false;
         }
       }
@@ -32,7 +32,7 @@ var CodingExercise = (function () {
   }
   /**
    * Get unique pairs of an array the imperative way.
-   * @param  [int[]] $arr - Array of ints.
+   * @param  [int[]] arr - Array of ints.
    * @return [int[int[]]]
    */
   function getPairs(arr) {
