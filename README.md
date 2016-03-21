@@ -7,7 +7,7 @@ How to run:
 3. In the console, run the following command:
 
    ```javascript
-   ce.test(<param>);
+   ce.areAllPairsAdditive(<param>);
    ```
 
    Where `<param>` is the integer parameter of your choosing.
