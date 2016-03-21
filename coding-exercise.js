@@ -31,7 +31,7 @@ var CodingExercise = (function () {
     return primes;
   }
   /**
-   * Get unique pairs of an array the imperative way.
+   * Get unique pairs of an array the functional way.
    * @param  [int[]] arr - Array of ints.
    * @return [int[int[]]]
    */
