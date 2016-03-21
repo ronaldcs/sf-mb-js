@@ -2,7 +2,7 @@ You are given a function 'secret()' that accepts a single integer parameter and 
 
 How to run:
 
-1. Visit https://repl.it/ByGK/3. Note that this link is essentially a duplicate of the coding-exercise.js file.
+1. Visit https://repl.it/ByGK/4. Note that this link is essentially a duplicate of the coding-exercise.js file.
 2. Click on the "run" button.
 3. In the console, run the following command:
 
