@@ -6,8 +6,8 @@ How to run:
 2. Click on the "run" button.
 3. In the console, run the following command:
 
-```javascript
-ce.test(<param>);
-```
+   ```javascript
+   ce.test(<param>);
+   ```
 
-Where `<param>` is the integer parameter of your choosing.
+   Where `<param>` is the integer parameter of your choosing.
