@@ -10,4 +10,10 @@ How to run:
    ce.areAllPairsAdditive(<param>);
    ```
 
-   Where `<param>` is the integer parameter of your choosing.
+   Where `<param>` is the integer parameter of your choosing. Additionally, after running the above command, you can run the following command:
+   
+   ```javascript
+   ce._primes;
+   ```
+   
+   to see the list of primes.
