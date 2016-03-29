@@ -1,3 +1,5 @@
+use strict;
+
 /**
  * Secret function.
  * @param  [int] i - Accept an integer.
